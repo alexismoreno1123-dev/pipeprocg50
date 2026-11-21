@@ -1,0 +1,17 @@
+example.png:
+  type: bopti-image
+  name: example
+
+fuente_grande.png:
+  name: fuente_grande
+  type: font
+  charset: ascii
+  grid.size: 16x26
+  grid.padding: 1
+
+fuente_mediana.png:
+  name: fuente_mediana
+  type: font
+  charset: ascii
+  grid.size: 10x18
+  grid.padding: 1
